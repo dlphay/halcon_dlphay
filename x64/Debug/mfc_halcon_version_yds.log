@@ -1,0 +1,4 @@
+﻿  HALCON_FUNC_YDS.cpp
+HALCON_FUNC_YDS.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+  mfc_halcon_version_yds.vcxproj -> F:\c++\mfc_halcon_version1.6.0_yds_OCV_dection\x64\Debug\mfc_halcon_version_yds.exe
+  mfc_halcon_version_yds.vcxproj -> F:\c++\mfc_halcon_version1.6.0_yds_OCV_dection\x64\Debug\mfc_halcon_version_yds.pdb (Partial PDB)

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  mfc_halcon_version_ydsDlg.cpp
+  mfc_halcon_version_yds.cpp
+  正在生成代码...
+halconcpp.lib(halconcpp.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
